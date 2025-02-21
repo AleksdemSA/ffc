@@ -6,3 +6,6 @@ Build (it's easy)
 ```sh
 go build ffc.go
 ```
+
+![folder file count](ffc.png)
+
